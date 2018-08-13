@@ -6,5 +6,5 @@ class Character < ActiveRecord::Base
     puts self.catchphrase
   end
 
-  
+
 end
